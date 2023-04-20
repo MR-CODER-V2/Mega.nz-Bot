@@ -1,3 +1,6 @@
+Flask 
+Gunicorn
+aiohttp
 pyrogram
 TgCrypto
 filetype
