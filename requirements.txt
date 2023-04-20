@@ -6,5 +6,5 @@ TgCrypto
 filetype
 filesplit
 wget
-git+https://github.com/Itz-fork/pyro-mega.py.git
+https://github.com/Itz-fork/pyro-mega.py/archive/master.zip
 cryptg
